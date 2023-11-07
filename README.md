@@ -2,7 +2,7 @@
 
 So today OpenAI released really good text-to-speech features, the faster `gpt-4-1106-preview` model, JSON mode, April 2023 knowledge cut-off, and lots of other good stuff.  To experiment with what these things can do, I "wrote" this project while on the elliptical for an hour using the ChatGPT (GPT-4) app on my cellphone, then pasted the Python scripts into this repo.  I pushed this code to GitHub a few hours later after stringing it all together in the Cursor fork of Visual Studio code, which uses GPT-4 to assist with software development.
 
-It cost me $1 to test it.  And it works!  [Listen to the audiobook](output_audiobook.mp3)
+It cost me $1 to test it.  And it works!  [[Listen to the audiobook](output_audiobook.mp3)](https://github.com/catid/AutoAudiobook/raw/main/output_audiobook.mp3)
 
 The cool thing is that each character gets their own unique voice actor.  There's a good example at 5:00.
 
